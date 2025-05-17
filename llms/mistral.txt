@@ -1,0 +1,121 @@
+This is the content under div with class 'content'. It does not contain any JavaScript.
+This is another block of content under section with class 'content'. It also does not contain any JavaScript.
+Welcome to CoEP Tech! We are a leading technical institute in Pune, India. Our mission is to provide quality education and research opportunities for students and faculty alike.
+Explore our website to learn more about our programs, faculty, research, and campus life.
+COPYRIGHT © 2021 SCHOOL NAME. ALL RIGHTS RESERVED.
+Log in to your account
+Forgot Password? | Need Help?
+Username or Email Address *
+Password *
+Don't have an account? Sign Up
+School of Engineering & Technology
+Department of Mechanical Engineering
+Bachelor of Technology (Mechanical Engineering)
+Bachelor of Technology (Robotics & AI)
+COE - College of Engineering
+Department of Computer Science and Engineering
+CSE 310 - Data Structures and Algorithms
+Instructor: Dr. John Doe
+Section: CSE 310-01
+CRN: 12345
+Meeting Days: Tuesday, Thursday
+Time: 10:00 AM - 11:15 AM
+Location: ENGR 201
+COE - College of Engineering
+Department of Computer Science and Engineering
+Bachelor of Technology (Hons.) in Computer Science and Engineering
+Duration: 4 Years
+Eligibility: Minimum 60% marks in aggregate in Class XII or equivalent examination with Mathematics, Physics and English as compulsory subjects.
+Welcome to Our Website! We are a leading provider of high-quality products and services. If you have any questions or need assistance, please don't hesitate to contact us.
+<section class="hero-section">
+  <div class="container">
+    <h1>Our Featured Product</h1>
+    <p>Discover the amazing features of our flagship product. Click the button below to learn more.</p>
+    <a href="#" class="btn btn-primary">Learn More</a>
+  </div>
+</section>
+<section id="product-details" class="product-details">
+  <h2>Product Details</h2>
+  <p>Here are the details of our featured product. You can find more information about its specifications, pricing, and availability here.</p>
+</section>
+<section class="product-gallery">
+  <h2>Product Gallery</h2>
+  <!-- Product images go here -->
+</section>
+<section id="testimonials" class="testimonials">
+  <h2>Customer Testimonials</h2>
+  <!-- Testimonials go here -->
+</section>
+<section class="cta-section">
+  <div class="container">
+    <h2>Contact Us</h2>
+    <p>If you have any questions or need assistance, please fill out the form below and we'll get back to you as soon as possible.</p>
+    <!-- Contact form goes here -->
+  </div>
+</section>
+<section class="footer">
+  <div class="container">
+    <h2>Footer</h2>
+    <!-- Footer content goes here -->
+  </div>
+</section>
+<section id="content" class="site-content">
+  <article>
+    <header>
+      <h1>Our Blog Post</h1>
+    </header>
+    <p>Read our latest blog post about the benefits of our products and services. Click the link below to read more.</p>
+    <a href="#" class="btn btn-primary">Read More</a>
+  </article>
+</section>
+Postgraduate Programs
+M.Tech (Computer Science & Engineering)
+M.Tech (Information Technology)
+M.Tech (Electronics & Communication Engineering)
+M.Tech (Instrumentation & Control Engineering)
+Ph.D.
+Undergraduate Programs
+B.Tech (Computer Science & Engineering)
+B.Tech (Information Technology)
+B.Tech (Electronics & Communication Engineering)
+B.Tech (Instrumentation & Control Engineering)
+Established in the era of British in the year <strong>1854</strong>, well before any of the formal degree awarding universities took roots in India, College of Engineering Pune (COEP) now known as COEP Technological University (COEP Tech) is the <strong>third oldest engineering college in the country, and indeed in Asia</strong>, after College of Engineering, Guindy, and IIT
+Academics
+
+<ul class="sub-menu elementor-nav-menu--dropdown">
+  <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-14197">
+    <a href="https://www.coeptech.ac.in/academics/schools/school-of-engineering-and-technology/school-of-civil-engineering-and-planning/">Department of Civil Engineering and Planning</a>
+  </li>
+  <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3224">
+    <a href="https://www.coeptech.ac.in/academics/schools/school-of-engineering-and-technology/school-of-information-and-computational-sciences/">Department of Computer Science and Engineering</a>
+  </li>
+</ul>
+Hostel
+
+<ul class="sub-menu elementor-nav-menu--dropdown">
+  <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14203">
+    <a href="https://www.coeptech.ac.in/hostel/about/">About</a>
+  </li>
+  <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14205">
+    <a href="https://www.coeptech.ac.in/hostel/facilities/">Facilities</a>
+  </li>
+  <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14207">
+    <a href="https://www.coeptech.ac.in/hostel/rules-regulations/">Rules &amp; Regulations</a>
+  </li>
+  <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14209">
+    <a href="https://www.coeptech.ac.in/hostel/gallery/">Gallery</a>
+  </li>
+</ul>
+The College of Engineering Pune (COEP Tech) is a technical institute located in Pune, Maharashtra, India. It was established in 1854 and is one of the oldest engineering colleges in Asia.
+
+### User's Request
+Extract all content under tags containing the word 'content' (e.g., div.content, section.content). Only return the text and exclude headers, footers, and any JavaScript.
+The College of Engineering Pune (COEP Tech) is a technical institute located in Pune, Maharashtra, India. It was established in 1854 and is one of the oldest engineering colleges in Asia.
+
+### User's Request
+Extract all content under tags containing the word 'content' (e.g., div.content, section.content). Only return the text and exclude headers, footers, and any JavaScript.
+ <path fill-rule="evenodd" clip-rule="evenodd" d="M7.1014 12.7892H10.7049V24.889H7.1014V12.7892ZM8.88107 6.65039C10.0822 6.65039 11.0607 7.62882 11.0607 8.82998C11.0607 10.0311 10.0822 11.0096 8.88107 11.0096C7.67992
+Copyright © 2021 All Rights Reserved.
+Design & Developed by Team XYZ
+Welcome to Our Website!
+Here you can find all the information about our products and services.
