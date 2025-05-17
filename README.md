@@ -1,8 +1,8 @@
 # 🧠 ChatScraper
 
-| Chat UI | Query Output |
-|---------|--------------|
-| ![Home](assets/home.png) | ![Chat](assets/chat.png) |
+| Chat UI |
+|---------|
+| ![Main](assets/main.jpg) 
 
 ---
 
