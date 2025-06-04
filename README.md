@@ -26,7 +26,7 @@
 ## 💻 Installation
 
 ```bash
-[git clone https://github.com/your-username/ChatScraper.git](https://github.com/mayureshsaitwal/ChatScrapper.git)
+git clone https://github.com/mayureshsaitwal/ChatScrapper.git
 cd ChatScraper
 ```
 
